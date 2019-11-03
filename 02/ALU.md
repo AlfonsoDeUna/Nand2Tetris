@@ -14,3 +14,12 @@ Von Neumann explicó que una ALU es un requisito fundamental para una computador
 ## Ejemplo de ALU de Nand2Tetris
 
 ![ALU NAND2TETRIS](./images/alu.jpg?raw=true "ALU NAN2TETRIS")
+
+### Detalles de diseño de nuestra ALU
+
+
+
+
+REFERENCES
+---
+https://www.slideshare.net/youtang5/introduction-to-nand2-tetris Curso básico de Nand2Tetris
